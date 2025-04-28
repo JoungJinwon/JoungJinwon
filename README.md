@@ -1,13 +1,12 @@
 <h1 align="center">
     Hi, My name is Jinwon Jung
 </h1>
-<h3 align="center">
+<h2 align="center">
     I am a Junior Game Developer.
-</h3>
+</h2>
+<br/>
 
 ---
-
-<br/>
 
 <h3 align="center">
     Tech & Tools
@@ -55,7 +54,11 @@
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api?username=JoungJinwon&show_icons=true&theme=tokyonight" alt="Jinwon's GitHub stats" />
     </a>
-    <br/>
+</div>
+
+<br/>
+
+<div>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon" alt="Top Languages" />
     </a>
