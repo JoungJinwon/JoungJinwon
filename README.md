@@ -55,9 +55,11 @@
       <img src="https://github-readme-stats.vercel.app/api?username=JoungJinwon&show_icons=true&theme=tokyonight" alt="Jinwon's GitHub stats" />
     </a>
 </div>
-
 <br/>
 
+---
+
+<br/>
 <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon" alt="Top Languages" />
