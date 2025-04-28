@@ -25,22 +25,22 @@
     <tr>
       <td><strong>Engine</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Unity-blue" /> 
-        <img src="https://img.shields.io/badge/Unreal-blue" />
+        <img src="https://img.shields.io/badge/unity-gray?style=for-the-badge&logo=unity&labelColor=black" /> 
+        <img src="https://img.shields.io/badge/Unreal-gray?style=for-the-badge&logo=unrealengine&labelColor=black" />
       </td>
     </tr>
     <tr>
       <td><strong>Language</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/C++-blue" /> 
-        <img src="https://img.shields.io/badge/C♯-blue" />
+        <img src="https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus" />
+        <img src="https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c" />
       </td>
     </tr>
     <tr>
       <td><strong>Additional</strong></td>
       <td>
-        <img src="https://img.shields.io/badge/Aesprite-blue" /> 
-        <img src="https://img.shields.io/badge/Blender-blue" />
+        <img src="https://img.shields.io/badge/Aseprite-%237D929E?style=for-the-badge&logo=aseprite&labelColor=white" /> 
+        <img src="https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&labelColor=gray" />
       </td>
     </tr>
   </tbody>
