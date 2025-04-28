@@ -45,10 +45,9 @@
 </table>
 
 <br/>
+<br/>
 
 ---
-
-<br/>
 
 <h3 align="center">
     Simple Stats
@@ -59,10 +58,10 @@
     </a>
 </div>
 <br/>
+<br/>
 
 ---
 
-<br/>
 <h3 align="center">
     Language Usage Statistics
 </h3>
