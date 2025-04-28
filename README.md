@@ -1,10 +1,12 @@
 <h1 align="center">
     Hi, My name is Jinwon Jung
 </h1>
-<h2 align="center">
+<h3 align="center">
     I am a Junior Game Developer.
-</h2>
+</h3>
 <br/>
+
+> 💡 I'm interested in developing games using various tools, and also implementing various contents and producing creative results.
 
 ---
 
