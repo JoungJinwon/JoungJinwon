@@ -7,21 +7,32 @@
 
 ---
 
+<br/>
+
 <h3 align="Center">
     Tech & Tools
 </h3>
+<div align="center" style="witdh:100%">
+    | Category | Item |
+    | -- | -- |
+    | **Engine** | <img src="https://img.shields.io/badge/Unity-blue" />, <img src="https://img.shields.io/badge/Unreal-blue" /> |
+    | **Language** | <img src="https://img.shields.io/badge/C++-blue" />, <img src="https://img.shields.io/badge/C_#-blue" /> |
+    | **Additional** | <img src="https://img.shields.io/badge/Aesprite-blue" />, <img src="https://img.shields.io/badge/Blender-blue" /> |
+</div>
 
-| Category | Item |
-| -- | -- |
-| Engine | <img src="https://img.shields.io/badge/Unity-blue" />, <img src="https://img.shields.io/badge/Unreal-blue" /> |
-| Language | <img src="https://img.shields.io/badge/C++-blue" />, <img src="https://img.shields.io/badge/C#-blue" /> |
-| Additional | <img src="https://img.shields.io/badge/Aesprite-blue" />, <img src="https://img.shields.io/badge/Blender-blue" /> |
+<br/>
 
 ---
 
-[![Jinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungJinwon)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+[![Jinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungJinwon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/>
 
 ---
+
+<br/>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon)](https://github.com/anuraghazra/github-readme-stats)
 
