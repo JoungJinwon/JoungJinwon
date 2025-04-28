@@ -1,18 +1,21 @@
 <h1 align="center">
     Hi, My name is Jinwon Jung
 </h1>
-<h3 align="Center">
+<h3 align="center">
     I am a Junior Game Developer.
 </h3>
+
 ---
+
 <h3 align="Center">
     Tech & Tools
 </h3>
-| **Category** | **Item** |
-|--|--|
-| **Engine** | <img src="https://img.shields.io/badge/Unity-blue" />, <img src="https://img.shields.io/badge/Unreal-blue" /> |
-| **Language** | <img src="https://img.shields.io/badge/C++-blue" />, <img src="https://img.shields.io/badge/C#-blue" /> |
-| **Additional** | <img src="https://img.shields.io/badge/Aesprite-blue" />, <img src="https://img.shields.io/badge/Blender-blue" /> |
+
+| Category | Item |
+| -- | -- |
+| Engine | <img src="https://img.shields.io/badge/Unity-blue" />, <img src="https://img.shields.io/badge/Unreal-blue" /> |
+| Language | <img src="https://img.shields.io/badge/C++-blue" />, <img src="https://img.shields.io/badge/C#-blue" /> |
+| Additional | <img src="https://img.shields.io/badge/Aesprite-blue" />, <img src="https://img.shields.io/badge/Blender-blue" /> |
 
 ---
 
