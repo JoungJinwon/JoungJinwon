@@ -32,7 +32,7 @@
       <td><strong>Language</strong></td>
       <td>
         <img src="https://img.shields.io/badge/C++-blue" /> 
-        <img src="https://img.shields.io/badge/C_#-blue" />
+        <img src="https://img.shields.io/badge/C♯-blue" />
       </td>
     </tr>
     <tr>
