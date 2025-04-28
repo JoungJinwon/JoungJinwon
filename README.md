@@ -9,32 +9,57 @@
 
 <br/>
 
-<h3 align="Center">
+<h3 align="center">
     Tech & Tools
 </h3>
-<div align="center" style="witdh:100%">
-    | Category | Item |
-    | -- | -- |
-    | **Engine** | <img src="https://img.shields.io/badge/Unity-blue" />, <img src="https://img.shields.io/badge/Unreal-blue" /> |
-    | **Language** | <img src="https://img.shields.io/badge/C++-blue" />, <img src="https://img.shields.io/badge/C_#-blue" /> |
-    | **Additional** | <img src="https://img.shields.io/badge/Aesprite-blue" />, <img src="https://img.shields.io/badge/Blender-blue" /> |
+
+<table align="center">
+  <thead>
+    <tr>
+      <th>Category</th>
+      <th>Item</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Engine</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Unity-blue" /> 
+        <img src="https://img.shields.io/badge/Unreal-blue" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Language</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/C++-blue" /> 
+        <img src="https://img.shields.io/badge/C_#-blue" />
+      </td>
+    </tr>
+    <tr>
+      <td><strong>Additional</strong></td>
+      <td>
+        <img src="https://img.shields.io/badge/Aesprite-blue" /> 
+        <img src="https://img.shields.io/badge/Blender-blue" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=JoungJinwon&show_icons=true&theme=tokyonight" alt="Jinwon's GitHub stats" />
+    </a>
+    <br/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon" alt="Top Languages" />
+    </a>
 </div>
-
-<br/>
-
----
-
-<br/>
-
-[![Jinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungJinwon&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-<br/>
-
----
-
-<br/>
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoungJinwon/JoungJinwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
