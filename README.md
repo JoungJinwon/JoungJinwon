@@ -2,15 +2,25 @@
     Hi, My name is Jinwon Jung
 </h1>
 <h3 align="Center">
-    I am a Junior Game Developeer.
+    I am a Junior Game Developer.
 </h3>
-
+---
 <h3 align="Center">
     Tech & Tools
 </h3>
-- Unity
-- c++
-- c#
+| **Category** | **Item** |
+|--|--|
+| **Engine** | <img src="https://img.shields.io/badge/Unity-blue" />, <img src="https://img.shields.io/badge/Unreal-blue" /> |
+| **Language** | <img src="https://img.shields.io/badge/C++-blue" />, <img src="https://img.shields.io/badge/C#-blue" /> |
+| **Additional** | <img src="https://img.shields.io/badge/Aesprite-blue" />, <img src="https://img.shields.io/badge/Blender-blue" /> |
+
+---
+
+[![Jinwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungJinwon)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **JoungJinwon/JoungJinwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
