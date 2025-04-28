@@ -6,7 +6,7 @@
 </h3>
 <br/>
 
-> 💡 I'm interested in developing games using various tools, and also implementing various contents and producing creative results.
+> **💡 I'm interested in developing games using various tools, and also implementing various contents and producing creative results.**
 
 ---
 
