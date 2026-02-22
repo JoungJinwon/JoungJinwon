@@ -34,6 +34,26 @@
 
 </div>
 
+---
+
+### GitHub Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=JoungJinwon&theme=tokyonight)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### GitHub Trophy
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JoungJinwon&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
 <!--
 **JoungJinwon/JoungJinwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
