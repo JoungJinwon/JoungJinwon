@@ -16,29 +16,9 @@
 
 ---
 
-### Simple Stats
-
 <div align="center">
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungJinwon&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
-
-### Language Usage Statistics
-
-<div align="center">
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon)](https://github.com/anuraghazra/github-readme-stats)
-
-</div>
-
----
 
 ### GitHub Streak
-
-<div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=JoungJinwon&theme=tokyonight)](https://git.io/streak-stats)
 
@@ -46,9 +26,9 @@
 
 ---
 
-### GitHub Trophy
-
 <div align="center">
+
+### GitHub Trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=JoungJinwon&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
 
