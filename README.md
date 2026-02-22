@@ -18,13 +18,21 @@
 
 ### Simple Stats
 
+<div align="center">
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoungJinwon&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 ---
 
 ### Language Usage Statistics
 
+<div align="center">
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JoungJinwon)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 
 <!--
 **JoungJinwon/JoungJinwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
