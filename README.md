@@ -28,9 +28,14 @@
 
 <div align="center">
 
-### GitHub Trophy
+### 🏆 Achievements
+![Achievements](./metrics.achievements.svg)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JoungJinwon&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+### 📅 Isometric Calendar
+![Isometric Calendar](./metrics.isocalendar.svg)
+
+### 🈷️ Languages
+![Languages](./metrics.languages.svg)
 
 </div>
 
