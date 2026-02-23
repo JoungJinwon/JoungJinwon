@@ -17,17 +17,6 @@ jobs:
       contents: write
 
     steps:
-      # 🏆 Achievements (트로피 대체)
-      - name: Achievements
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics.achievements.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base: ""
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_limit: 0
-
       # 📅 Isometric Commit Calendar
       - name: Isometric Calendar
         uses: lowlighter/metrics@latest
