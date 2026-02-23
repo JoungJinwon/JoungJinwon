@@ -37,13 +37,13 @@
 <div align="center">
 
 ### 🏆 Achievements
-![Achievements](./metrics.achievements.svg)
+![Achievements](metrics.achievements.svg)
 
 ### 📅 Isometric Calendar
-![Isometric Calendar](./metrics.isocalendar.svg)
+![Isometric Calendar](metrics.isocalendar.svg)
 
 ### 🈷️ Languages
-![Languages](./metrics.languages.svg)
+![Languages](metrics.languages.svg)
 
 </div>
 
