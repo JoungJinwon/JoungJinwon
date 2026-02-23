@@ -1,14 +1,17 @@
 <div align="center">
+
 # Hi, My name is Jinwon Jung
 
 ### I am a Junior Game Developer.
 
 > **💡 I'm interested in developing games using various tools, and also implementing various contents and producing creative results.**
+
 </div>
 
 ---
 
 <div align="center">
+
 ### Tech & Tools
 
 | Category | Item |
@@ -16,6 +19,7 @@
 | **Engine** | ![Unity](https://img.shields.io/badge/unity-gray?style=for-the-badge&logo=unity&labelColor=black) ![Unreal](https://img.shields.io/badge/Unreal-gray?style=for-the-badge&logo=unrealengine&labelColor=black) |
 | **Language** | ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=cplusplus) ![C#](https://img.shields.io/badge/C%23-blue?style=for-the-badge&logo=c) |
 | **Additional** | ![Aseprite](https://img.shields.io/badge/Aseprite-%237D929E?style=for-the-badge&logo=aseprite&labelColor=white) ![Blender](https://img.shields.io/badge/Blender-%23E87D0D?style=for-the-badge&logo=blender&labelColor=gray) |
+
 </div>
 
 ---
