@@ -37,7 +37,7 @@
 <div align="center">
 
 ### 🏆 Achievements
-[![Trophy](https://github-profile-trophy.vercel.app/?username=ripepixel1214&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophy](https://github-profile-trophy-git-master-ryo-ma.vercel.app/?username=ripepixel1214&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### 📅 Isometric Calendar
 ![Isometric Calendar](metrics.isocalendar.svg)
