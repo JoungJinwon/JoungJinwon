@@ -28,7 +28,7 @@
 
 ### GitHub Streak
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=JoungJinwon&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ripepixel1214&theme=tokyonight)](https://git.io/streak-stats)
 
 </div>
 
